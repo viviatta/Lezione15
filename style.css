@@ -1,0 +1,17 @@
+body {
+    background-color: #3f3fba;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Barlow', sans-serif;
+    color: white;
+    font-size: 10vw;
+    letter-spacing: -2px;
+}
